@@ -4,8 +4,8 @@ Project type: GUI application
 
 Program, in which the application was created: Visual Studio 2015
 
-Abaut the app:
-Popular game of tic-tac-toe, in which the opponent is a computer.
+About the app:
+<br>Popular game of tic-tac-toe, in which the computer is the oponent.
  
 Game opportunities:
  - creating the player's name
